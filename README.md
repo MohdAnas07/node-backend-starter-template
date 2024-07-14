@@ -5,5 +5,5 @@
 
 
 ------- THIS TEMPLATE PROVIDES --------------
-1. In this template have added JWT Authentication
+1. In this template, I have added JWT Authentication
 2. user creating/fetching/updating/deleting code available
