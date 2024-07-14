@@ -1,9 +1,9 @@
 
 1. Clone this Repository
 2. npm install
-3. you are all set to your nodejs backend stater template
+3. you are all set to your nodejs backend starter template
 
 
 ------- THIS TEMPLATE PROVIDES --------------
-1. In this template have adding JWT Authentication
-2. user creating/fetcing/updating/deleting code available
+1. In this template have added JWT Authentication
+2. user creating/fetching/updating/deleting code available
